@@ -71,7 +71,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/clmentbisai
 
 | WordCloud - Fake News | WordCloud - Real News |
 |------------------------|------------------------|
-| ![Fake WC](images/fake_wc.png) | ![Real WC](images/real_wc.png) |
+| ![image](https://github.com/user-attachments/assets/a89cbff0-9d7e-493c-a24e-7317cbfcc340) | ![image](https://github.com/user-attachments/assets/d6952bb2-262f-4041-8063-4abfcd9a8a15) |
 
 ---
 
