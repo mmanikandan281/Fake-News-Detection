@@ -34,6 +34,9 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/clmentbisai
 
 ## 📁 Dataset
 
+
+**Source:** [Kaggle - Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)  
+
 - `Fake.csv` – Fake news articles
 - `True.csv` – Real news articles
 
