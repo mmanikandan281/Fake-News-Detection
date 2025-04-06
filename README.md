@@ -1,12 +1,17 @@
 # 📰 Fake News Detection using NLP & ML
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![License](https://img.shields.io/github/license/yourusername/fake-news-detector)
+![License](https://img.shields.io/github/license/mmanikandan281/Fake-News-Detection)
 ![Platform](https://img.shields.io/badge/Platform-Colab-green?logo=googlecolab)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Model](https://img.shields.io/badge/Model-DecisionTreeClassifier-yellow)
 
 ---
+
+## ▶️ Run on Google Colab
+
+Click the badge below to run this project in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmanikandan281/Fake-News-Detection/blob/main/Fake_News_Detection.ipynb)
 
 ## 📌 Project Overview
 
