@@ -1,7 +1,7 @@
 # 📰 Fake News Detection using NLP & ML
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![License](https://img.shields.io/github/license/mmanikandan281/Fake-News-Detection)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Colab-green?logo=googlecolab)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
