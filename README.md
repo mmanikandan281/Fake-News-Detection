@@ -87,6 +87,16 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/clmentbisai
 
 ---
 
+## 🧪 How to Use
+
+```bash
+# Clone the repo
+git clone https://github.com/mmanikandan281/Fake-News-Detection.git
+
+# Open the Colab notebook linked above to explore the project
+```
+
+
 ## 💬 Example Prediction
 
 <details>
@@ -98,13 +108,5 @@ text = ["Donald Trump just couldn’t wish all Americans a Happy New Year and le
 result = model.predict(tfidf_vectorizer.transform([processed_text]))
 print(result)
 ```
-
-## 🧪 How to Use
-
-```bash
-# Clone the repo
-git clone https://github.com/mmanikandan281/Fake-News-Detection.git
-
-# Open the Colab notebook linked above to explore the project
-```
+# Developed By Manikandan M😉
 
