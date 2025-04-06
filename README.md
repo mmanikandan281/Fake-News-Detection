@@ -11,7 +11,7 @@
 
 Click the badge below to run this project in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmanikandan281/Fake-News-Detection/blob/main/Fake_News_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1eErFvKMsueFHUFQCk__tDqyF-Bcf8-Xh?usp=sharing)
 
 ## 📌 Project Overview
 
