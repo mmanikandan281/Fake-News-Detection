@@ -106,3 +106,5 @@ print(result)
 git clone https://github.com/mmanikandan281/Fake-News-Detection.git
 
 # Open the Colab notebook linked above to explore the project
+```
+
