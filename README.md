@@ -11,7 +11,7 @@
 
 Click the badge below to run this project in Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1eErFvKMsueFHUFQCk__tDqyF-Bcf8-Xh?usp=sharing)
+https://colab.research.google.com/drive/1eErFvKMsueFHUFQCk__tDqyF-Bcf8-Xh?usp=sharing
 
 ## 📌 Project Overview
 
